@@ -1,5 +1,17 @@
 ## Description is comming soon...
 
+## Web development
+
+## Python
+
+## Matlab
+
+## C++
+
+## Qt
+
+## University
+
 
 
 
