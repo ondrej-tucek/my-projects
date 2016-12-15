@@ -18,11 +18,14 @@
 * [Parser of Warnings and Errors](https://github.com/ondrej-tucek/my-works/tree/master/files/Matlab_parser-Warning-Error)
  * script processes the user-selected file and classifies from it by keywords WARNING and Error
  * usage in FEM analysis
-* [Nonlinear regression of decay of radon](https://github.com/ondrej-tucek/my-works/blob/master/files/Matlab_SURO_radon-%20lsqcurvefit.pdf)\[552KB\] (only Czech)
+* [Nonlinear regression of decay of radon](https://github.com/ondrej-tucek/my-works/blob/master/files/Matlab_SURO_radon-%20lsqcurvefit.pdf) \[pdf, 552KB\] (only Czech)
  * this project was solved for National Radiation Protection Institute (SURO v.v.i.)
  * solving system of linear ordinary differential equations
  * curve fitting of parameters of mathematical model
-* []()
+* [Animation of Rotor vibration](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_animation-vibration-of-rotor.png)
+ * complex GUI where user can select a type of measure of vibration (e.g. on bearing, on rotor, etc.) and also vibration sensor (DE-X, ...)
+ * possibility to change the speed of animation
+ * animations of 2D and 3D graphs 
 * []()
 
 ## C++
