@@ -6,7 +6,7 @@
 * [Angular2 - Easybooking](http://easybooking.surge.sh/) (under construction)
  * Angular2, SASS, BEM
 * [Data Analytics](http://data-analytics.cz/) (under construction)
- ⋅⋅⋅ jQuery, D3.js, C3.js, Chart.js, Plotly
+ * jQuery, D3.js, C3.js, Chart.js, Plotly
 
 ## Python ##
 * [Interpolation of measured values of pollution in Cities](https://github.com/ondrej-tucek/city-pollution)
