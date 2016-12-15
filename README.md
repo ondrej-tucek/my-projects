@@ -39,7 +39,11 @@
 ## C++
 
 ## Qt
-
+* [Text Finder](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Qt_app_TextFinder.png)
+ * GUI application for searching words in text file that are required
+ * searching based on regular expressions
+ * for clarity is searched text highlighted by color
+ 
 ## University
 * []()
  *
