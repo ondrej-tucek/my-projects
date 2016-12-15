@@ -1,6 +1,9 @@
 ## Description is comming soon...
 
 ## Web development
+* [Angular2 - Photoservice](http://fotoservice.surge.sh/) (under construction)
+* [Angular2 - Easybooking](http://easybooking.surge.sh/)(under construction)
+* [Data Analytics](http://data-analytics.cz/)(under construction)
 
 ## Python ##
 * [Interpolation of measured values of pollution in Cities](https://github.com/ondrej-tucek/city-pollution)
