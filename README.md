@@ -27,8 +27,8 @@
  * possibility to change the speed of animation
  * animations of 2D and 3D graphs 
 * [Computation of Stress Intensity Factor](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-init.png)
- * usage in crack analysis
- * example of [usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-usage.png)
+ * usage \([example](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-usage.png)\) in crack analysis
+ * Failure assessment diagram
  * possibility to set up a lots of parameters for a couple type of cracks (flat plates)
  * context-sensitive (tooltip) help
 * []()
