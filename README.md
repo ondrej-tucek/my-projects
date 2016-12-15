@@ -34,8 +34,6 @@
 * [Computation of parameters of Paris function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_paris-law.png)
  * linear regression to finding parameters of Paris function
  * possibility to select rectangular area for computation/regression (these values are highlighted different color)
-* []()
- *  
 
 ## C++
 Levenberg–Marquardt algorithm is comming soon...
@@ -51,6 +49,8 @@ Levenberg–Marquardt algorithm is comming soon...
  * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
  * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
  * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png) \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
+* []()
+ *   
 
 ## License
  [MIT](/LICENSE)
