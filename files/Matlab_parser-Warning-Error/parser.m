@@ -1,5 +1,15 @@
 % Skript parser.m
 %
+% This script processes the user-selected file and classifies from it 
+% by keywords WARNING and Error. There are two type of output 
+% _Warning_<number>.fileFormat and _Error_<number>.fileFormat that contain
+% node numbers or element numbers. The Prefix of these file can be set 
+% using variables maskWarning and maskError. The number of output files is 
+% determined by total numbers of Warning and type of Error in the input file.
+% For manually enter of input file is necessary comment out rows 
+% from 43 to 65 and uncomment row 29.
+%
+% 
 % Tento skript zpracovava uzivatelem vybrany soubor, ktery z neho tridi
 % podle klicovych slov WARNING a Error. Vystupem pote je nekolik souboru s
 % nazvem _Warning_cislo.fileFormat a _Error....fileFormat, (fileFormat viz
@@ -9,7 +19,7 @@
 % Error ve vstupnim souboru. 
 % Paklize se chce uzivatel vyhnout vstupnimu oknu pro vyber souboru a chce 
 % vstupni soubor zadavat rucne musi v tomto souboru zakomentovat odstavec 
-% od msgFile = {}, po if ~jeVybrano vcetne if a od komentovat radek s 
+% od msgFile = {}, po if ~isSelected vcetne if a od komentovat radek s 
 % inputFile = 'Pevnost_05_shell.msg'. 
 
 % Vytvoril: Ondrej Tucek
@@ -18,7 +28,7 @@
 clc
 clear all;
 
-inputFile = 'Pevnost_05_shell.msg'
+%inputFile = 'Pevnost_05_shell.msg'
 
 
 maskWarning  = '_Warning_';     % prefix pro soubory s warningy, napr. _Warning_11436.txt
@@ -33,24 +43,24 @@ dataErr = {'',[-1]};    % bude obsahovat v prvnim sloupci string (char) erroru, 
 
 % ========================  Vstupni okno pro vyber souboru==========================
 msgFile = {};
-obsah_adresare = dir(pwd);	% nacteme vsechny nazvy podadresaru a souboru v zadanem adresari do pole struktur
+dirCnt = dir(pwd);	% nacteme vsechny nazvy podadresaru a souboru v zadanem adresari do pole struktur
 k = 1;
 
 % Tento FOR cykl slouzi k vyberu vsech souboru s priponou .msg
-for obsah_adr = obsah_adresare' 
-    if (obsah_adr.isdir == 0) & (strfind(obsah_adr.name,'.msg') ~= 0)
-        msgFile{k} = obsah_adr.name;        
+for dirContent = dirCnt' 
+    if (dirContent.isdir == 0) & (strfind(dirContent.name,'.msg') ~= 0)
+        msgFile{k} = dirContent.name;        
         k = k+1;
     end
 end
 
 % openFile ... cislo, ktere urcuje v cell msgFile ktery soubor chceme otevrit
-% jeVybrano  ... je 0 (= jestli jsme nic nevybrali - cancel) nebo 1 (= jsme vybrali - ok) 
-[openFile,jeVybrano] = listdlg('PromptString','Vyberte soubor:',...
+% isSelected  ... je 0 (= jestli jsme nic nevybrali - cancel) nebo 1 (= jsme vybrali - ok) 
+[openFile,isSelected] = listdlg('PromptString','Vyberte soubor:',...
                 'SelectionMode','single',...
                 'ListString',msgFile);
  
- if ~jeVybrano      % jestlize jsme soubor nevybrali ukoncime tento skript
+ if ~isSelected      % jestlize jsme soubor nevybrali ukoncime tento skript
      break;
  else               % jinak nacteme nami vybrani soubor
      inputFile = msgFile{openFile}
