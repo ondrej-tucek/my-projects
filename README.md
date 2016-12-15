@@ -50,8 +50,7 @@ Levenberg–Marquardt algorithm is comming soon...
 * First meeting with Matlab
  * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
  * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
- * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png), \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
- * []()
+ * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png) \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
 
 ## License
  [MIT](/LICENSE)
