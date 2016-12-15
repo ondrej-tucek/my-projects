@@ -1,9 +1,12 @@
 ## Description is comming soon...
 
 ## Web development
-* [Angular2 - Photoservice](http://fotoservice.surge.sh/) (under construction)
-* [Angular2 - Easybooking](http://easybooking.surge.sh/)(under construction)
-* [Data Analytics](http://data-analytics.cz/)(under construction)
+* [Photoservice](http://fotoservice.surge.sh/) (under construction)
+⋅⋅* Angular2, SASS, BEM
+* [Angular2 - Easybooking](http://easybooking.surge.sh/) (under construction)
+⋅⋅* Angular2, SASS, BEM
+* [Data Analytics](http://data-analytics.cz/) (under construction)
+⋅⋅* jQuery, D3.js, C3.js, Chart.js, Plotly
 
 ## Python ##
 * [Interpolation of measured values of pollution in Cities](https://github.com/ondrej-tucek/city-pollution)
