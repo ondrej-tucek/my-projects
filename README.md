@@ -31,24 +31,27 @@
  * Failure assessment diagram
  * possibility to set up a lots of parameters for a couple type of cracks (flat plates)
  * context-sensitive (tooltip) help
-* []()
- *
+* [Computation of parameters of Paris function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_paris-law.png)
+ * linear regression to finding parameters of Paris function
+ * possibility to select rectangular area for computation/regression (these values are highlighted different color)
 * []()
  *  
 
 ## C++
+Levenberg–Marquardt algorithm is comming soon...
 
 ## Qt
 * [Text Finder](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Qt_app_TextFinder.png)
- * GUI application for searching words in text file that are required
+ * GUI application for searching words in text file that are required by user
  * searching based on regular expressions
  * for clarity is searched text highlighted by color
  
 ## University
-* []()
- *
-
-
+* First meeting with Matlab
+ * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
+ * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
+ * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png), \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
+ * []()
 
 ## License
  [MIT](/LICENSE)
