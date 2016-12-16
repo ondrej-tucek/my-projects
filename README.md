@@ -1,5 +1,3 @@
-## Description is comming soon...
-
 ## Web development
 * [Photoservice](http://fotoservice.surge.sh/) (under construction)
  * Angular2, @ngrx, SASS, BEM
@@ -44,13 +42,21 @@ Levenberg–Marquardt algorithm is comming soon...
  * searching based on regular expressions
  * for clarity is searched text highlighted by color
  
-## University
+# University
+> all pdf files are in typesetting of `LaTeX` and mostly in Czech 
 * First meeting with Matlab
  * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
  * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
  * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png) \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
 * []()
  *   
+* Others mathematical things...
+ * Lorentz and Galilean coordinate transformations of Maxwell's equations, [derivation](https://github.com/ondrej-tucek/my-works/blob/master/files/Lorenzova-Galileova-transformace.pdf) \(pdf, 82 KB\)
+ * Simpson's rule, [derivation](https://github.com/ondrej-tucek/my-works/blob/master/files/odvozeni-simpsonova-pravidla.pdf) of Simpson's rule \(pdf, 60 KB\)
+ * Usage Theorem of Integration of integral dependent on a parameter, [example](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru.pdf) \(pdf, 88 KB\)
+ * Others [examples](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru-priklady.pdf) of using the previous theorems, \(pdf, 92 KB\)
+ * []() \(pdf, KB\)
+ * []() \(pdf, KB\)
 
 ## License
  [MIT](/LICENSE)
