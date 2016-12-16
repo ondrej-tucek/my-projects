@@ -45,21 +45,33 @@ Levenberg–Marquardt algorithm is comming soon...
 # University
 > all pdf files are in typesetting of `LaTeX` and mostly in Czech 
 
+* Semestral works
+ * Advanced Numerical Methods 1 \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR.pdf), 182 KB\]
+ * \[[pdf](), KB\]
+ * \[[pdf](), KB\]
+ * \[[pdf](), KB\]
+ * \[[pdf](), KB\]
+ * \[[pdf](), KB\]
+ * []() \[pdf, KB\]
+ * []() \[pdf, KB\]
+ * []() \[pdf, KB\]
+ * []() \[pdf, KB\]
+ 
+* Others mathematical things...
+ * Derivation of Lorentz and Galilean coordinate transformations of Maxwell's equations, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/Lorenzova-Galileova-transformace.pdf), 82 KB\]
+ * Derivation of Simpson's rule, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/odvozeni-simpsonova-pravidla.pdf), 60 KB\]
+ * Theorem of Integration of integral dependent on a parameter, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru.pdf), 88 KB\]
+ * Others of using the previous theorem, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru-priklady.pdf), 92 KB\]
+ * Sum of the infinite series arctan(1/k^2) in closed form, \([pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-atan.pdf), 84 KB\)
+ * Sum of series of combinational numbers in closed form, \([pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-binom-series.pdf), 84 KB\)
+ * Examples of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/extremy-funkci.pdf), 98 KB\]
+
 * First meeting with Matlab
  * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
  * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
  * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png) \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
-* []()
- *   
-* Others mathematical things...
- * Lorentz and Galilean coordinate transformations of Maxwell's equations, [derivation](https://github.com/ondrej-tucek/my-works/blob/master/files/Lorenzova-Galileova-transformace.pdf) \[pdf, 82 KB\]
- * Simpson's rule, [derivation](https://github.com/ondrej-tucek/my-works/blob/master/files/odvozeni-simpsonova-pravidla.pdf) \[pdf, 60 KB\]
- * Usage Theorem of Integration of integral dependent on a parameter, [example](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru.pdf) \[pdf, 88 KB\]
- * Others [examples](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru-priklady.pdf) of using the previous theorem, \[pdf, 92 KB\]
- * [Sum](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-atan.pdf) of the infinite series arctan(1/k^2) in closed form, \(pdf, 84 KB\)
- * [Sum](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-binom-series.pdf) of series of combinational numbers in closed form, \(pdf, 84 KB\)
- * [Examples](https://github.com/ondrej-tucek/my-works/blob/master/files/extremy-funkci.pdf) of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught, \[pdf, 98 KB\]
- 
+  
 ## License
  [MIT](/LICENSE)
 
+* []() \[pdf, KB\]  
