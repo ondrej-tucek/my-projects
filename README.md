@@ -47,11 +47,12 @@ Levenberg–Marquardt algorithm is comming soon...
 
 * Semestral works
  * Advanced Numerical Methods 1 \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR.pdf), 182 KB\]
- * \[[pdf](), KB\]
- * \[[pdf](), KB\]
- * \[[pdf](), KB\]
- * \[[pdf](), KB\]
- * \[[pdf](), KB\]
+    * trying
+ * \[[pdf](/files/), KB\]
+ * \[[pdf](/files/), KB\]
+ * \[[pdf](/files/), KB\]
+ * \[[pdf](/files/), KB\]
+ * \[[pdf](/files/), KB\]
  * []() \[pdf, KB\]
  * []() \[pdf, KB\]
  * []() \[pdf, KB\]
@@ -62,8 +63,8 @@ Levenberg–Marquardt algorithm is comming soon...
  * Derivation of Simpson's rule \[[pdf](/files/odvozeni-simpsonova-pravidla.pdf), 60 KB\]
  * Theorem of Integration of integral dependent on a parameter \[[pdf](/files/integrace-podle-parametru.pdf), 88 KB\]
  * Others of using the previous theorem \[[pdf](/files/integrace-podle-parametru-priklady.pdf), 92 KB\]
- * Sum of the infinite series arctan(1/k^2) in closed form \([pdf](/files/sum-atan.pdf), 84 KB\)
- * Sum of series of combinational numbers in closed form \([pdf](/files/sum-binom-series.pdf), 84 KB\)
+ * Sum of the infinite series arctan(1/k^2) in closed form \[[pdf](/files/sum-atan.pdf), 84 KB\]
+ * Sum of series of combinational numbers in closed form \[[pdf](/files/sum-binom-series.pdf), 84 KB\]
  * Examples of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught \[[pdf](/files/extremy-funkci.pdf), 98 KB\]
 
 * First meeting with Matlab
