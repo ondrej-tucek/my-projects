@@ -25,7 +25,7 @@
  * possibility to change the speed of animation
  * animations of 2D and 3D graphs 
 * [Computation of Stress Intensity Factor](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-init.png)
- * usage \([example](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-usage.png)\) in crack analysis
+ * usage in crack analysis, \([example](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-usage.png)\)
  * Failure assessment diagram
  * possibility to set up a lots of parameters for a couple type of cracks (flat plates)
  * context-sensitive (tooltip) help
@@ -47,16 +47,31 @@ Levenberg–Marquardt algorithm is comming soon...
 
 * Semestral works
  * Advanced Numerical Methods 1 \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR.pdf), 182 KB\]
-    * trying
- * \[[pdf](/files/), KB\]
- * \[[pdf](/files/), KB\]
- * \[[pdf](/files/), KB\]
- * \[[pdf](/files/), KB\]
- * \[[pdf](/files/), KB\]
- * []() \[pdf, KB\]
- * []() \[pdf, KB\]
- * []() \[pdf, KB\]
- * []() \[pdf, KB\]
+    * numerical solution of system of four nonlinear ODE using Newton's method
+    * matlab's code \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR-kod.pdf), 31 KB\]
+ * Numerical Mathematics Software \[[pdf](/files/Numericka-integrace-uziti-Matlabu.pdf), 218 KB\]
+    * numerical integration using matlab's scripts *quad8* and *quadl*
+    * analysing results
+    * homeworks (WRITE UP)
+    * \[[pdf](/files/), KB\]
+    * \[[pdf](/files/), KB\]
+    * \[[pdf](/files/), KB\]
+    * \[[pdf](/files/), KB\]    
+ * Numerical Analysis \[[pdf](/files/Numericka-analyza-uziti-Matlabu.pdf), 193 KB\]
+    * usage of Matlab to solving numerical problems
+    * QR, LU, Cholesky, etc... decompositions, matlab's code
+ * Mathematical Modelling \[[pdf](/files/Nestacionarni-vedeni-tepla.pdf), 198 KB\]
+    * transient heat conduction
+    * modelling using Matlab
+ * Mathematical Models of Electromagnetic Field \[[pdf](/files/MKD-reseni-elmg-poli.pdf), 550KB\]
+    * numerical solution of electrostatic field using FEM, Laplace equation
+    * computation using Matlab
+ * Geometrical Computational Modelling \[[pdf](/files/Krivost-Bezierovych-ploch.pdf), 188 KB\]
+    * translation of article: Gaussian and mean curvatures of rational Bézier patches
+ * Neural Networks 
+    * training net, bipolar functions, ... \[[pdf](/files/Neuronove-site.pdf), 360 KB\]
+    * training of Perceptron net \[[pdf](/files/Trenovani-perceptrnove-site.pdf), 152 KB\]
+    * training of Kohonen net \[[pdf](/files/Trenovani-Kohonenovy-site.pdf), 198 KB\]
  
 * Others mathematical things...
  * Derivation of Lorentz and Galilean coordinate transformations of Maxwell's equations \[[pdf](/files/Lorenzova-Galileova-transformace.pdf), 82 KB\]
@@ -65,6 +80,7 @@ Levenberg–Marquardt algorithm is comming soon...
  * Others of using the previous theorem \[[pdf](/files/integrace-podle-parametru-priklady.pdf), 92 KB\]
  * Sum of the infinite series arctan(1/k^2) in closed form \[[pdf](/files/sum-atan.pdf), 84 KB\]
  * Sum of series of combinational numbers in closed form \[[pdf](/files/sum-binom-series.pdf), 84 KB\]
+ * Stability of solutions of ODE, examples \[[pdf](/files/ODR-stabilita-reseni.pdf), 75 KB\]
  * Examples of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught \[[pdf](/files/extremy-funkci.pdf), 98 KB\]
 
 * First meeting with Matlab
