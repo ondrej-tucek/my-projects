@@ -58,7 +58,7 @@ Levenberg–Marquardt algorithm is comming soon...
  * Others [examples](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru-priklady.pdf) of using the previous theorem, \[pdf, 92 KB\]
  * [Sum](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-atan.pdf) of the infinite series arctan(1/k^2) in closed form, \(pdf, 84 KB\)
  * [Sum](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-binom-series.pdf) of series of combinational numbers in closed form, \(pdf, 84 KB\)
- * [Examples](https://github.com/ondrej-tucek/my-works/blob/master/files/extremy-funkci.pdf) of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught FEE \(pdf, 98 KB\)
+ * [Examples](https://github.com/ondrej-tucek/my-works/blob/master/files/extremy-funkci.pdf) of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught, \[pdf, 98 KB\]
  
 ## License
  [MIT](/LICENSE)
