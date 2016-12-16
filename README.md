@@ -58,13 +58,13 @@ Levenberg–Marquardt algorithm is comming soon...
  * []() \[pdf, KB\]
  
 * Others mathematical things...
- * Derivation of Lorentz and Galilean coordinate transformations of Maxwell's equations, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/Lorenzova-Galileova-transformace.pdf), 82 KB\]
- * Derivation of Simpson's rule, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/odvozeni-simpsonova-pravidla.pdf), 60 KB\]
- * Theorem of Integration of integral dependent on a parameter, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru.pdf), 88 KB\]
- * Others of using the previous theorem, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/integrace-podle-parametru-priklady.pdf), 92 KB\]
- * Sum of the infinite series arctan(1/k^2) in closed form, \([pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-atan.pdf), 84 KB\)
- * Sum of series of combinational numbers in closed form, \([pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/sum-binom-series.pdf), 84 KB\)
- * Examples of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught, \[[pdf](https://github.com/ondrej-tucek/my-works/blob/master/files/extremy-funkci.pdf), 98 KB\]
+ * Derivation of Lorentz and Galilean coordinate transformations of Maxwell's equations \[[pdf](/files/Lorenzova-Galileova-transformace.pdf), 82 KB\]
+ * Derivation of Simpson's rule \[[pdf](/files/odvozeni-simpsonova-pravidla.pdf), 60 KB\]
+ * Theorem of Integration of integral dependent on a parameter \[[pdf](/files/integrace-podle-parametru.pdf), 88 KB\]
+ * Others of using the previous theorem \[[pdf](/files/integrace-podle-parametru-priklady.pdf), 92 KB\]
+ * Sum of the infinite series arctan(1/k^2) in closed form \([pdf](/files/sum-atan.pdf), 84 KB\)
+ * Sum of series of combinational numbers in closed form \([pdf](/files/sum-binom-series.pdf), 84 KB\)
+ * Examples of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught \[[pdf](/files/extremy-funkci.pdf), 98 KB\]
 
 * First meeting with Matlab
  * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
