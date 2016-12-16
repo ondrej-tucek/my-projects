@@ -79,7 +79,7 @@ Levenberg–Marquardt algorithm is comming soon...
  * Theorem of Integration of integral dependent on a parameter \[[pdf](/files/integrace-podle-parametru.pdf), 88 KB\]
  * Others of using the previous theorem \[[pdf](/files/integrace-podle-parametru-priklady.pdf), 92 KB\]
  * Sum of the infinite series arctan(1/k^2) in closed form \[[pdf](/files/sum-atan.pdf), 84 KB\]
- * Sum of series of combinational numbers in closed form \[[pdf](/files/sum-binom-series.pdf), 84 KB\]
+ * Sum of the finite series of combinational numbers in closed form \[[pdf](/files/sum-binom-series.pdf), 84 KB\]
  * Stability of solutions of ODE, examples \[[pdf](/files/ODR-stabilita-reseni.pdf), 75 KB\]
  * Examples of mathematical analysis for the freshmen FEL (2006, 2010) and FAV (2007-2010) that I taught \[[pdf](/files/extremy-funkci.pdf), 98 KB\]
 
