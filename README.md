@@ -52,7 +52,7 @@ Levenberg–Marquardt algorithm is comming soon...
  * Numerical Mathematics Software \[[pdf](/files/Numericka-integrace-uziti-Matlabu.pdf), 218 KB\]
     * numerical integration using matlab's scripts *quad8* and *quadl*
     * analysing results
-    * homeworks (WRITE UP)
+ * * Numerical Mathematics Software - Homeworks
         * error of approximation \[[pdf](/files/ukol2-1.pdf), 72 KB\]
         * condition number of a matrix \[[pdf](/files/ukol2-2.pdf), 84 KB\]
         * stability of algorithms \[[pdf](/files/ukol2-3.pdf), 87 KB\]
