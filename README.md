@@ -52,15 +52,6 @@ Levenberg–Marquardt algorithm is comming soon...
  * Numerical Mathematics Software \[[pdf](/files/Numericka-integrace-uziti-Matlabu.pdf), 218 KB\]
     * numerical integration using matlab's scripts *quad8* and *quadl*
     * analysing results
- * * Numerical Mathematics Software - Homeworks
-        * error of approximation \[[pdf](/files/ukol2-1.pdf), 72 KB\]
-        * condition number of a matrix \[[pdf](/files/ukol2-2.pdf), 84 KB\]
-        * stability of algorithms \[[pdf](/files/ukol2-3.pdf), 87 KB\]
-        * floating point \[[pdf](/files/ukol3-1.pdf), 63KB\]
-        * machine epsilon \[[pdf](/files/ukol3-2.pdf), 70 KB\]
-        * loss of significance (cancellation) \[[pdf](/files/ukol3-3.pdf), 65 KB\]
-        * accumulation of errors \[[pdf](/files/ukol3-4.pdf), 64 KB\]
-        * norm of vector \[[pdf](/files/ukol4-1.pdf), 96 KB\]
  * Numerical Analysis \[[pdf](/files/Numericka-analyza-uziti-Matlabu.pdf), 193 KB\]
     * usage of Matlab to solving numerical problems
     * QR, LU, Cholesky, etc... decompositions, matlab's code
@@ -76,7 +67,18 @@ Levenberg–Marquardt algorithm is comming soon...
     * training net, bipolar functions, ... \[[pdf](/files/Neuronove-site.pdf), 360 KB\]
     * training of Perceptron net \[[pdf](/files/Trenovani-perceptrnove-site.pdf), 152 KB\]
     * training of Kohonen net \[[pdf](/files/Trenovani-Kohonenovy-site.pdf), 198 KB\]
- 
+
+* Homeworks
+ * Numerical Mathematics Software
+    * error of approximation \[[pdf](/files/ukol2-1.pdf), 72 KB\]
+    * condition number of a matrix \[[pdf](/files/ukol2-2.pdf), 84 KB\]
+    * stability of algorithms \[[pdf](/files/ukol2-3.pdf), 87 KB\]
+    * floating point \[[pdf](/files/ukol3-1.pdf), 63KB\]
+    * machine epsilon \[[pdf](/files/ukol3-2.pdf), 70 KB\]
+    * loss of significance (cancellation) \[[pdf](/files/ukol3-3.pdf), 65 KB\]
+    * accumulation of errors \[[pdf](/files/ukol3-4.pdf), 64 KB\]
+    * norm of vector \[[pdf](/files/ukol4-1.pdf), 96 KB\]
+
 * Others mathematical things...
  * Derivation of Lorentz and Galilean coordinate transformations of Maxwell's equations \[[pdf](/files/Lorenzova-Galileova-transformace.pdf), 82 KB\]
  * Derivation of Simpson's rule \[[pdf](/files/odvozeni-simpsonova-pravidla.pdf), 60 KB\]
