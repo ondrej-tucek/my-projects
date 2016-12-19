@@ -33,9 +33,6 @@
  * linear regression to finding parameters of Paris function
  * possibility to select rectangular area for computation/regression (these values are highlighted different color)
 
-## C++
-Levenberg–Marquardt algorithm is comming soon...
-
 ## Qt
 * [Text Finder](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Qt_app_TextFinder.png)
  * GUI application for searching words in text file that are required by user
