@@ -42,7 +42,7 @@
 # University
 > all pdf files are in typesetting of `LaTeX` and mostly in Czech 
 
-* Semestral works
+* Semestral work
  * Advanced Numerical Methods 1 \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR.pdf), 182 KB\]
     * numerical solution of system of four nonlinear ODE using Newton's method
     * matlab's code \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR-kod.pdf), 31 KB\]
@@ -60,12 +60,12 @@
     * computation using Matlab
  * Geometrical Computational Modelling \[[pdf](/files/Krivost-Bezierovych-ploch.pdf), 188 KB\]
     * translation of article: Gaussian and mean curvatures of rational Bézier patches
- * Neural Networks 
+ * Neural Network
     * training net, bipolar functions, ... \[[pdf](/files/Neuronove-site.pdf), 360 KB\]
     * training of Perceptron net \[[pdf](/files/Trenovani-perceptrnove-site.pdf), 152 KB\]
     * training of Kohonen net \[[pdf](/files/Trenovani-Kohonenovy-site.pdf), 198 KB\]
 
-* Homeworks
+* Homework
  * Numerical Mathematics Software
     * error of approximation \[[pdf](/files/ukol2-1.pdf), 72 KB\]
     * condition number of a matrix \[[pdf](/files/ukol2-2.pdf), 84 KB\]
