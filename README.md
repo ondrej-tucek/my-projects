@@ -48,7 +48,7 @@
     * matlab's code \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR-kod.pdf), 31 KB\]
  * Numerical Mathematics Software \[[pdf](/files/Numericka-integrace-uziti-Matlabu.pdf), 218 KB\]
     * numerical integration using matlab's scripts *quad8* and *quadl*
-    * analysing results
+    * analysing of results
  * Numerical Analysis \[[pdf](/files/Numericka-analyza-uziti-Matlabu.pdf), 193 KB\]
     * usage of Matlab to solving numerical problems
     * QR, LU, Cholesky, etc... decompositions, matlab's code
@@ -93,5 +93,3 @@
   
 ## License
  [MIT](/LICENSE)
-
-* []() \[pdf, KB\]  
