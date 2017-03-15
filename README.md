@@ -11,6 +11,8 @@
  * numpy, click, pylint, pytest, pytest-cov, pyshp, shapely, ...
 * [Machine Learning analysis of Human Activity Recognition (HAR)](https://github.com/ondrej-tucek/Machine-Learning-HAR)
  * numpy, pandas, sklearn, matplotlib, pylab
+* [Multicolor labels of axes](https://github.com/ondrej-tucek/multicolor-labels-axes)
+ * matplotlib, pylab, numpy
 
 ## Matlab
 * [Parser of Warnings and Errors](https://github.com/ondrej-tucek/my-works/tree/master/files/Matlab_parser-Warning-Error)
@@ -23,7 +25,7 @@
 * [Animation of Rotor vibration](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_animation-vibration-of-rotor.png)
  * complex GUI where user can select a type of measure of vibration (e.g. on bearing, on rotor, etc.) and also vibration sensor (DE-X, ...)
  * possibility to change the speed of animation
- * animations of 2D and 3D graphs 
+ * animations of 2D and 3D graphs
 * [Computation of Stress Intensity Factor](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-init.png)
  * usage in crack analysis, \([example](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_cracks-view-usage.png)\)
  * Failure assessment diagram
@@ -38,9 +40,9 @@
  * GUI application for searching words in text file that are required by user
  * searching based on regular expressions
  * for clarity is searched text highlighted by color
- 
+
 # University
-> all pdf files are in typesetting of `LaTeX` and mostly in Czech 
+> all pdf files are in typesetting of `LaTeX` and mostly in Czech
 
 * Semestral work
  * Advanced Numerical Methods 1 \[[pdf](/files/Numericke-reseni-nelinearni-soustavy-ODR.pdf), 182 KB\]
@@ -90,6 +92,6 @@
  * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
  * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
  * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png) \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
-  
+
 ## License
  [MIT](/LICENSE)
