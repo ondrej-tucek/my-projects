@@ -13,6 +13,8 @@
     * numpy, pandas, sklearn, matplotlib, pylab
 * [Multicolor labels of axes](https://github.com/ondrej-tucek/multicolor-labels-axes)
     * matplotlib, pylab, numpy
+* [Mockdata generator - generator of names, emails, JSON objects, ... ](https://github.com/ondrej-tucek/mockdata-generator)
+
 
 ## Matlab
 * [Parser of Warnings and Errors](https://github.com/ondrej-tucek/my-works/tree/master/files/Matlab_parser-Warning-Error)
