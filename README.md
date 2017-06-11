@@ -1,10 +1,15 @@
 ## Web development
-* [Photoservice](http://fotoservice.surge.sh/) (under construction)
+* [Photoservice](http://fotoservice.surge.sh/) (under construction) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
-* [Easybooking](http://easybooking.surge.sh/) (under construction)
+* [Easybooking](http://easybooking.surge.sh/) (under construction) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
 * [Data Analytics](http://data-analytics.cz/) (under construction)
     * jQuery, D3.js, C3.js, Chart.js, Plotly
+* [Forecast Weather](http://elm-forecast.surge.sh/) (under construction)
+    * Elm, elm-mdl, SASS, BEM, Rest Api
+* [Dialogs](http://elm-dialogs.surge.sh/)
+    * Elm, elm-mdl, SASS, BEM
+
 
 ## Python ##
 * [Interpolation of measured values of pollution in Cities](https://github.com/ondrej-tucek/city-pollution)
@@ -37,11 +42,13 @@
     * linear regression to finding parameters of Paris function
     * possibility to select rectangular area for computation/regression (these values are highlighted different color)
 
+
 ## Qt
 * [Text Finder](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Qt_app_TextFinder.png)
     * GUI application for searching words in text file that are required by user
     * searching based on regular expressions
     * for clarity is searched text highlighted by color
+
 
 # University
 > all pdf files are in typesetting of `LaTeX` and mostly in Czech
@@ -94,6 +101,7 @@
     * [GUI](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_change-label-axes.png) \(setup and labeling axes\)
     * [Bezier curve](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_fig_Bezier-curve.png)
     * [Contrast Sensitivy function](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-init.png) \([usage](https://github.com/ondrej-tucek/my-works/blob/master/imgs/Matlab_app_CSF-view-usage.png)\)
+
 
 ## License
  [MIT](/LICENSE)
