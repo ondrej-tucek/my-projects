@@ -29,7 +29,7 @@
     * Angular2, @ngrx, SASS, BEM
 * [Easybooking](http://easybooking.surge.sh/) (closed) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
-* [Data Analytics](http://data-analytics.cz/) (closed)
+* [Data Analytics](http://ondrej-tucek.github.io/data-analytics/) (closed)
     * jQuery, D3.js, C3.js, Chart.js, Plotly
 
 
