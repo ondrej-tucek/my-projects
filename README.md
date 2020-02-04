@@ -3,8 +3,18 @@
     * library for generating QR code
 * [matrix_reloaded](https://github.com/iodevs/matrix_reloaded)
     * library for matrix and vectors working
+* [validatex](https://github.com/iodevs/validatex) -- Co-Worker
+    * library for a validation of input forms
+* [validatex_example](https://github.com/iodevs/validatex_example) -- Co-Worker
+    * how to use Validatex library to validate input forms...
 * [qr-code-svg](https://github.com/ondrej-tucek/qr-code-svg)
     * library for generating QR code to SVG format. DEPRECATED!
+
+## Elixir + Phoenix + Live View
+* [dentistbook](https://dentistbook.herokuapp.com/) -- Co-Worker
+    * private project, CRUD via Ecto + PostgreSQL
+* [FuelCell](https://github.com/ondrej-tucek/my-works/blob/master/imgs/fc-settings_init.png) -- Co-Worker
+    * private project, Elm, Elixir, Ecto + PostgreSQL
 
 
 ## Elm
