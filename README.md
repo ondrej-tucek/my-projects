@@ -1,39 +1,41 @@
 ## Elixir
 * [qr_code](https://github.com/iodevs/qr_code) -- Co-Worker
-    * library for generating QR code
+    * library for generating QR code, \[[hex](https://hexdocs.pm/qr_code/readme.html)\]
 * [matrix_reloaded](https://github.com/iodevs/matrix_reloaded)
-    * library for matrix and vectors working
+    * library for matrix and vectors working, \[[hex](https://hexdocs.pm/matrix_reloaded/MatrixReloaded.html)\]
 * [validatex](https://github.com/iodevs/validatex) -- Co-Worker
-    * library for a validation of input forms
+    * library for a validation of input forms, \[[hex](https://hexdocs.pm/validatex/readme.html)\]
+* [result](https://github.com/iodevs/result) -- Co-Worker
+    * library for a validation of input forms, \[[hex](https://hexdocs.pm/result/api-reference.html)\]
 * [qr-code-svg](https://github.com/ondrej-tucek/qr-code-svg)
     * library for generating QR code to SVG format. DEPRECATED!
 
 ## Elixir + Phoenix + Live View
-* [dentistbook](https://dentistbook.herokuapp.com/) -- Co-Worker
+* [DentistBook](https://dentistbook.herokuapp.com/) -- Co-Worker
     * private project, CRUD via Ecto + PostgreSQL
 * [FuelCell](https://github.com/ondrej-tucek/my-works/blob/master/imgs/fc-settings_init.png) -- Co-Worker
     * private project, Elm, Elixir, Ecto + PostgreSQL
 * [CovidCZ](https://covidcz.herokuapp.com/)
     * covid stats, a couple of graphs with Highcharts
-* [validatex_example](https://github.com/iodevs/validatex_example) -- Co-Worker
-    * how to use Validatex library to validate input forms...
+* [Validatex example](https://validatex.herokuapp.com/) -- Co-Worker
+    * how to use Validatex library to validate input forms, \[[github](https://github.com/iodevs/validatex_example)\]
 
 
 ## Elm
 * [elm-validate](https://iodevs.github.io/elm-validate/) -- Co-Worker
-    * form validation library, [github](https://github.com/iodevs/elm-validate)
+    * form validation library, \[[github](https://github.com/iodevs/elm-validate)\]
 * [elm-modal](https://iodevs.github.io/elm-modal/) -- Co-Worker
-    *  library for Modal window, [github](https://github.com/iodevs/elm-modal)
+    *  library for Modal window, \[[github](https://github.com/iodevs/elm-modal)\]
 * [elm-history](https://github.com/iodevs/elm-history) -- Co-Worker
     * history pattern for Elm
 * [Superconductivity](http://superconductivity.surge.sh/) (under construction)
     * informative web about superconductivity
-* [Forecast Weather](http://elm-forecast.surge.sh/) (under construction), \[[github](https://github.com/ondrej-tucek/elm-forecast)\]
-    * elm-mdl, SASS, BEM, Rest Api
-* [Dialogs](http://elm-dialogs.surge.sh/), \[[github](https://github.com/ondrej-tucek/elm-dialogs)\]
-    * elm-mdl, SASS, BEM
-* [Ports](http://elm-ports.surge.sh/), \[[github](https://github.com/ondrej-tucek/elm-ports)\]
-    * Plotly
+* [Forecast Weather](http://elm-forecast.surge.sh/) (under construction)
+    * elm-mdl, SASS, BEM, Rest Api, \[[github](https://github.com/ondrej-tucek/elm-forecast)\]
+* [Dialogs](http://elm-dialogs.surge.sh/)
+    * elm-mdl, SASS, BEM, \[[github](https://github.com/ondrej-tucek/elm-dialogs)\]
+* [Ports](http://elm-ports.surge.sh/)
+    * Plotly, \[[github](https://github.com/ondrej-tucek/elm-ports)\]
 
 
 ## JavaScript
@@ -42,12 +44,14 @@
 
 
 ## Others web development
-* [Photoservice](http://fotoservice.surge.sh/) (under construction) -- Co-Worker
+* [Photoservice](http://fotoservice.surge.sh/) (closed) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
 * [Easybooking](http://easybooking.surge.sh/) (closed) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
 * [Data Analytics](http://ondrej-tucek.github.io/data-analytics/) (closed)
     * jQuery, D3.js, C3.js, Chart.js, Plotly
+* [Biomaterials](http://biomaterials.tech) (under construction)
+    * Mategra web for NTC project, \[[github](https://github.com/ondrej-tucek/ntc-mategra)\]
 
 
 ## Python
