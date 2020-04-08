@@ -5,8 +5,6 @@
     * library for matrix and vectors working
 * [validatex](https://github.com/iodevs/validatex) -- Co-Worker
     * library for a validation of input forms
-* [validatex_example](https://github.com/iodevs/validatex_example) -- Co-Worker
-    * how to use Validatex library to validate input forms...
 * [qr-code-svg](https://github.com/ondrej-tucek/qr-code-svg)
     * library for generating QR code to SVG format. DEPRECATED!
 
@@ -15,6 +13,10 @@
     * private project, CRUD via Ecto + PostgreSQL
 * [FuelCell](https://github.com/ondrej-tucek/my-works/blob/master/imgs/fc-settings_init.png) -- Co-Worker
     * private project, Elm, Elixir, Ecto + PostgreSQL
+* [CovidCZ](https://covidcz.herokuapp.com/)
+    * covid stats, a couple of graphs with Highcharts
+* [validatex_example](https://github.com/iodevs/validatex_example) -- Co-Worker
+    * how to use Validatex library to validate input forms...
 
 
 ## Elm
@@ -34,6 +36,11 @@
     * Plotly
 
 
+## JavaScript
+* [guardsJS](https://github.com/ondrej-tucek/guardsJS)
+    * js pattern for validating input parameters and result of function
+
+
 ## Others web development
 * [Photoservice](http://fotoservice.surge.sh/) (under construction) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
@@ -43,7 +50,7 @@
     * jQuery, D3.js, C3.js, Chart.js, Plotly
 
 
-## Python ##
+## Python
 * [Scrape QR code for testing purposes to qr_code library](https://github.com/ondrej-tucek/qr-code-scrape)
     * lxml, pipetools, robobrowser, jsonschema, beautifulsoup
 * [Interpolation of measured values of pollution in Cities](https://github.com/ondrej-tucek/city-pollution)
