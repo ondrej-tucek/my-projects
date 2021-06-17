@@ -43,6 +43,12 @@
     * js pattern for validating input parameters and result of function
 
 
+## SvelteKit
+* [Biomaterials](http://biomaterials.tech) (WIP)
+    * Mategra web for NTC project, \[[github](https://github.com/ondrej-tucek/ntc-mategra)\]
+    * workshop flyer \[[pdf](https://www.biomaterials.tech/pdfs/MATEGRA_workshop_21.3.2019_flyer_en.pdf), 2.7MB\]
+
+
 ## Others web development
 * [Photoservice](http://fotoservice.surge.sh/) (closed) -- Co-Worker
     * Angular2, @ngrx, SASS, BEM
@@ -50,8 +56,6 @@
     * Angular2, @ngrx, SASS, BEM
 * [Data Analytics](http://ondrej-tucek.github.io/data-analytics/) (closed)
     * jQuery, D3.js, C3.js, Chart.js, Plotly
-* [Biomaterials](http://biomaterials.tech) (under construction)
-    * Mategra web for NTC project, \[[github](https://github.com/ondrej-tucek/ntc-mategra)\]
 
 
 ## Python
